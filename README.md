@@ -7,19 +7,21 @@ To design, develop and deploy a web application for event registration.
 
 ### Step 1:
 
+Create a new frame.
 
 ### Step 2:
 
+Select any one present size of your choice
 
 ### Step 3:
 
+Select the shape you needed.
 
 ### Step 4:
 
+Import images as needed and create pages based on your need and link there.
 
 ### Step 5:
-
-### Step 6:
 
 Validate the HTML and CSS code.
 
@@ -28,6 +30,8 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN:
+
+#### Figma
 
 ## PROGRAM :
 
@@ -1155,10 +1159,47 @@ background: url(9l);
 
 ## OUTPUT:
 
+#### Designing Page 1 :
+
+![image](https://github.com/PSriVarshan/event-registration/assets/114944059/ddac0499-35ca-48a0-a765-d5dab4ca4040)
+
+
+#### Designing Page 2 :
+
+![image](https://github.com/PSriVarshan/event-registration/assets/114944059/c9396d49-db6b-495e-93c6-69c731f57932)
+
+
+#### Designing Page 3 :
+
+![image](https://github.com/PSriVarshan/event-registration/assets/114944059/2d521ab1-96e8-472a-a491-2d94ddf2c387)
+
+
+#### Website Home Page Output:
+
+![image](https://github.com/PSriVarshan/event-registration/assets/114944059/272ba46d-1541-4472-a35d-24f23d4b7829)
+
+
+#### Website Login Page Output :
+
+![image](https://github.com/PSriVarshan/event-registration/assets/114944059/758f21d2-6d82-4426-9796-3e3376a0cf16)
+
+
+#### Website Registration Page : 
+
+![image](https://github.com/PSriVarshan/event-registration/assets/114944059/c60c70ad-3a62-4824-90ef-c7f882f561da)
+
+
+![image](https://github.com/PSriVarshan/event-registration/assets/114944059/efa4925d-c9a3-410c-b301-cf2e64da841e)
+
+
+![image](https://github.com/PSriVarshan/event-registration/assets/114944059/2d6be37d-cc66-49f0-95f3-b9c64f1b9fc2)
+
 
 
 
 ## Result:
 
+
+The Program to Develop , Design and Display a web application for Event Registration is completed Succesfully...
 
 
